@@ -1,8 +1,8 @@
-# Django-Blog
+# Django-Blog   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-blog">
 A simple Blog Application using Django
 
 # Working : 
-![Django-Blog Application Working]()
+
 
 <h2>Technologies Used:</h2>
 <ul>
