@@ -2,7 +2,7 @@
 A simple Blog Application using Django
 
 # Working : 
-
+![](https://github.com/smahesh29/Django-Blog/blob/master/blog_app.gif)
 
 <h2>Technologies Used:</h2>
 <ul>
